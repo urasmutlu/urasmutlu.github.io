@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Istanbul Technical University, 2016
+* M.S. in Computer Engineering, Boğaziçi University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2014 - June 2016: Part-time C++ Developer
+  * Telemed A.Ş.
+  * Duties included: Developing algorithms for an MRI post-processing software in C++
+  * Website: [www.telemed.com.tr](http://www.telemed.com.tr)
+ 
+* June 2016 - January 2017: Full-time C++ Developer
+  * Telemed A.Ş.
+  * Duties included: Developing algorithms for an MRI post-processing software in C++
+  * Website: [www.telemed.com.tr](http://www.telemed.com.tr)
+  
+* February 2017 - Currently: Teaching Assistant
+  * Boğaziçi University
+  * Duties included: Participating in PS sessions, grading papers and exams
   
 Skills
 ======
